@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a49683111da85f2828728a2d7853cb1",
+    "revision": "472f01e8558876f1755340614dc1ecf5",
     "url": "/yoello/index.html"
   },
   {
