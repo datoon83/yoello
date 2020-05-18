@@ -2,7 +2,7 @@
   "name": "yoello-tech-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://datoon83.github.io/",
+  "homepage": "https://datoon83.github.io/yoello/",
   "repo": "https://github.com/datoon83/datoon83.github.io.git",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
